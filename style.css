@@ -5,3 +5,7 @@
 body{
     background-color: burlywood;
 }
+box{
+    height: 30px;
+    width: 30px;
+}
