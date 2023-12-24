@@ -28,7 +28,7 @@ body{
 .box{
     height: 18vmin;
     width: 18vmin;
-    background-color: black;
+    background-color: grey;
     color: white;
     font-size: 10vmin;
 }
